@@ -2,11 +2,7 @@
 WOTLK Isle of Giants map, For Araxia Server
 
 
-Fix Bags.
-
 Fix Maps
-
-Fix Quest Rewards
 
 Add mounts
 
