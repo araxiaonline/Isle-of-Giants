@@ -4,6 +4,8 @@ WOTLK Isle of Giants map, For Araxia Server
 
 Fix Maps
 
+Finish Cave Mobs
+
 Add mounts
 
 Add new pet
@@ -21,3 +23,6 @@ Add Delve Currency Trader
 
 
 .go xyz 6006.94 1534.93 34.5823 1405
+
+
+South Sea Islands?
