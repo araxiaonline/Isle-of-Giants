@@ -3,16 +3,23 @@ WOTLK Isle of Giants map, For Araxia Server
 
 
 Fix Maps by SpyKeyHD
+
 Currency Tab Fixed
+
 Delve Tokens Added
+
 Isle of Giants Map by Hawjiki
+
 Isle of Giants Creatures Done
+
 Isle of Giants Bosses and Lua DONE
+
 Isle of Giants Quest and Items DONE
+
 100+ New Weapons and Armor from Lineage 2, imported and created by Xonxy, funded by 0x539.
 
 
-
+---------------------
 
 
 Finish Cave Mobs
