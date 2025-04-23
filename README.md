@@ -12,8 +12,6 @@ Isle of Giants Map by Hawjiki
 
 Isle of Giants Creatures Done
 
-Isle of Giants Bosses and Lua DONE
-
 Isle of Giants Quest and Items DONE
 
 100+ New Weapons and Armor from Lineage 2, imported and created by Xonxy, funded by 0x539.
@@ -24,7 +22,10 @@ Isle of Giants Quest and Items DONE
 
 Finish Cave Mobs
 
-Add mounts (WoodDragon Xonxy, Catslime SpykeyHD)
+
+Isle of Giants Bosses and Lua FIX for permanet spawn and spawn times to 1 hour
+
+Add mounts (WoodDragon, and celestial cat  Xonxy, Catslime SpykeyHD)
 
 Update Store
 
@@ -35,6 +36,7 @@ Finish Neck enchantment Items
 Update Teleporter
 
 Add Delve Currency Trader
+
 
 South Sea Islands?
 
