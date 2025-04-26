@@ -10,12 +10,7 @@ Delve Tokens Added
 
 Isle of Giants Map by Hawjiki
 
-Isle of Giants Creatures Done
-
-Isle of Giants Quest and Items DONE
-
-100+ New Weapons and Armor from Lineage 2, imported and created by Xonxy, funded by 0x539.
-
+Add Quest SQL
 
 ---------------------
 
