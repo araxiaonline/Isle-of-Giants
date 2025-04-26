@@ -25,10 +25,10 @@ A custom map for World of Warcraft: Wrath of the Lich King (WOTLK), retroported 
 - Teleport location: `.go xyz 6006.94 1534.93 34.5823 1405`
 
 ## About
-This map is a retroport of MoP's Isle of Giants, tailored for the custom WOTLK server, Felskorn WoW. Some features and design choices align with Felskorn WoW's vision. The map has been adapted for the Araxia Server with contributions to map and DBC files by SpyKeyHD, and quests, items, and mobs created by Manmadedrummer for Araxia, based on the original work by Hawjiki. You are free to use this map on your own servers. Credit is not required but greatly appreciated.
+This map is a retroport of MoP's Isle of Giants, tailored for the custom WOTLK server, Felskorn WoW. Some features and design choices align with Felskorn WoW's vision. The map has been adapted for the Araxia Server with contributions to map and DBC files by SpyKeyHD, and quests, items, and mobs created by Manmadedrummer for Araxia, based on the original work by Hawjiki ([Hawjiki's GitHub](https://github.com/Hawjiki/Island-Project/)). You are free to use this map on your own servers. Credit is not required but greatly appreciated.
 
 ## Credits
-- **Original Map**: Hawjiki
+- **Original Map**: Hawjiki ([GitHub](https://github.com/Hawjiki/Island-Project/))
 - **Map and DBC Files**: SpyKeyHD
 - **Quests, Items, and Mobs**: Manmadedrummer
 - **Programs Used**:
@@ -95,4 +95,3 @@ This map is a retroport of MoP's Isle of Giants, tailored for the custom WOTLK s
 | 100013 | More Giant Dinosaur Bones         | Daily      |
 | 100015 | A Large Pile of Giant Dinosaur Bones | Non-Daily |
 | 100016 | A Mountain of Giant Dinosaur Bones | Non-Daily |
-
