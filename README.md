@@ -2,14 +2,21 @@
 
 
 Finish Cave Mobs
+
 Add mounts (WoodDragon, and celestial cat  Xonxy, Catslime SpykeyHD)
-Update Store
+
 Finish spell ID for neck enchantments
+
 Finish Neck enchantment Items
+
 Update Teleporter
+
 Add Delve Currency Trader
+
 South Sea Islands?
+
 Add new pet?
+
 South Sea Islands?
 
 
