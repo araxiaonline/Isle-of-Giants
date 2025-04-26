@@ -49,3 +49,28 @@ Add new pet??
 
 
 South Sea Islands?
+
+
+
+
+
+# Enemies
+------------------
+# Kaiju List
+
+| Entry  | Name                  |
+|--------|-----------------------|
+| 600704 | Zandali Dinomancer    |
+| 600705 | Devilsaur             |
+| 600706 | Young Devilsaur       |
+| 600707 | Skyscreamer           |
+| 600708 | Spiked Stegodon       |
+| 600709 | Thunderstomp Stegodon |
+| 600710 | Incendosaur           |
+| 600711 | Oxtius                |
+| 600712 | King Kong          |
+| 600713 | Oondasta              |
+| 600714 | Dohman The Beast Lord |
+| 600715 | War-God Dokah         |
+| 600716 | Gordon The Crab       |
+| 600717 | King Ghidorah         |
