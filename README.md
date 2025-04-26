@@ -47,7 +47,7 @@ South Sea Islands?
 
 | Entry  | Name                  |
 |--------|-----------------------|
-| 600703 | Ku'ma                 |
+| 600703 | Ku'ma  (Quest Giver)  |
 | 600704 | Zandali Dinomancer    |
 | 600705 | Devilsaur             |
 | 600706 | Young Devilsaur       |
