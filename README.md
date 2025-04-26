@@ -72,3 +72,28 @@ South Sea Islands?
 | 600715 | War-God Dokah         |
 | 600716 | Gordon The Crab       |
 | 600717 | King Ghidorah         |
+
+
+
+# Game Objects List
+
+| ID     | Name                 |
+|--------|----------------------|
+| 177002 | Bonfire              |
+| 189315 | Dead Orca            |
+| 176091 | Deadwood Cauldron    |
+| 180353 | Freestanding Torch   |
+| 185167 | Troll Skull Pile     |
+| 185456 | Huge Sitting Skeleton|
+| 32881  | Roaring Bonfire      |
+| 149028 | Meat Rack            |
+| 177665 | Big Rancid Meat      |
+| 181959 | Cave Torch           |
+| 211022 | Commanders Tent      |
+| 190591 | Troll Bat Totem      |
+| 191615 | Zul'Drak Spike Line  |
+| 187890 | Magna Totem          |
+| 185580 | Moonstone Altar      |
+| 177677 | Shallow Grave        |
+| 184731 | Demonic Crystal      |
+| 2711   | Charging Stone       |
