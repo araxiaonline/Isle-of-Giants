@@ -13,4 +13,3 @@ INSERT INTO `item_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Quest
 (90000, 48122, 0, 11.11, 0, 1, 0, 1, 1, 'Bones Bag - Ravasaur Hatchling'),
 (90000, 48124, 0, 11.11, 0, 1, 0, 1, 1, 'Bones Bag - Razormaw Hatchling'),
 (90000, 48126, 0, 11.11, 0, 1, 0, 1, 1, 'Bones Bag - Razzashi Hatchling');
-
