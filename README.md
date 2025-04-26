@@ -53,10 +53,8 @@ South Sea Islands?
 
 
 
-
-# Enemies
 ------------------
-# Kaiju List
+# Enemies List
 
 | Entry  | Name                  |
 |--------|-----------------------|
