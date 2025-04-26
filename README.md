@@ -67,9 +67,7 @@ South Sea Islands?
 | 600715 | War-God Dokah         |
 | 600716 | Gordon The Crab       |
 | 600717 | King Ghidorah         |
-
-
-
+----
 # Game Objects List
 
 | ID     | Name                 |
@@ -92,7 +90,7 @@ South Sea Islands?
 | 177677 | Shallow Grave        |
 | 184731 | Demonic Crystal      |
 | 2711   | Charging Stone       |
-
+----
 # Custom Items List
 
 | ID     | Name               |
@@ -101,3 +99,13 @@ South Sea Islands?
 | 90001  | Large Mystery Bag  |
 | 90002  | Giant Mystery Bag  |
 | 998800 | Giant Dinosaur Bone|
+-----
+# Quests List
+
+| ID      | Name                            | Type  |
+|---------|---------------------------------|-------|
+| 100012  | Giant Dinosaur Bone             | Daily |
+| 100014  | Many More Giant Dinosaur Bones  | Daily |
+| 100013  | More Giant Dinosaur Bones       | Daily |
+| 100015  | A Large Pile of Giant Dinosaur Bones | Non-Daily |
+| 100016  | A Mountain of Giant Dinosaur Bones   | Non-Daily |
