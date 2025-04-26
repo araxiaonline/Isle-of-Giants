@@ -4,13 +4,7 @@ WOTLK Isle of Giants map, For Araxia Server
 
 Fix Maps by SpyKeyHD
 
-Currency Tab Fixed
-
-Delve Tokens Added
-
 Isle of Giants Map by Hawjiki
-
-Add Quest SQL
 
 ---------------------
 
