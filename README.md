@@ -97,3 +97,12 @@ South Sea Islands?
 | 177677 | Shallow Grave        |
 | 184731 | Demonic Crystal      |
 | 2711   | Charging Stone       |
+
+# Custom Items List
+
+| ID     | Name               |
+|--------|--------------------|
+| 90000  | Normal Mystery Bag |
+| 90001  | Large Mystery Bag  |
+| 90002  | Giant Mystery Bag  |
+| 998800 | Giant Dinosaur Bone|
