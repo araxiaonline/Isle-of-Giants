@@ -12,8 +12,6 @@ Isle of Giants Map by Hawjiki
 Finish Cave Mobs
 
 
-Isle of Giants Bosses and Lua FIX for permanet spawn and spawn times to 1 hour
-
 Add mounts (WoodDragon, and celestial cat  Xonxy, Catslime SpykeyHD)
 
 Update Store
