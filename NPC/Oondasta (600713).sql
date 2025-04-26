@@ -14,10 +14,6 @@ INSERT INTO `creature_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 
 DELETE FROM `creature` WHERE (`id1` = 600713);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9999001, 600713, 0, 0, 1405, 0, 0, 1, 1, 0, 6167.73, 1069.11, 61.49, 2.46418, 300, 0, 0, 2667800, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
-
-DELETE FROM `creature` WHERE (`id1` = 600713);
-INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9999001, 600713, 0, 0, 1405, 0, 0, 1, 1, 0, 6167.73, 1069.11, 61.49, 2.46418, 1800, 0, 0, 2667800, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
 
 
