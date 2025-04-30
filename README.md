@@ -15,6 +15,10 @@ Add new pet?
 
 South Sea Islands?
 
+DungeoN Danny github
+
+Finish BC, and WOTLK dailies
+
 
 
 # Isle of Giants - WOTLK Custom Map
