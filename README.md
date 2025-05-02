@@ -1,26 +1,3 @@
-
-
-
-Finish Cave Mobs
-
-Add mounts (WoodDragon, and celestial cat  Xonxy, Catslime SpykeyHD)
-
-Update Teleporter
-
-Add Delve Currency Trader
-
-South Sea Islands?
-
-Add new pet?
-
-South Sea Islands?
-
-DungeoN Danny github
-
-Finish BC, and WOTLK dailies
-
-
-
 # Isle of Giants - WOTLK Custom Map
 
 A custom map for World of Warcraft: Wrath of the Lich King (WOTLK), retroported from Mists of Pandaria's Isle of Giants. This project was originally created for the custom WOTLK server [Felskorn WoW](https://felskorn.com/) and has been adapted for the Araxia Server.
