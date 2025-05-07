@@ -55,3 +55,5 @@ INSERT INTO `gameobject` (`guid`, `id`, `map`, `zoneId`, `areaId`, `spawnMask`, 
 (8002098, 184731, 800, 0, 5013, 1, 1, 6258.98, 809.103, 78.9193, 2.79928, 0, 0, -0.985388, -0.170323, 300, 0, 1, '', NULL, 'Demonic Crystal'),
 -- Charging Stone
 (8002096, 2711, 800, 0, 5013, 1, 1, 6188.94, 814.694, 74.5966, 4.47477, 0, 0, -0.785937, 0.618307, 300, 0, 1, '', NULL, 'Charging Stone');
+
+-- For Araxia
