@@ -24,8 +24,9 @@ INSERT INTO `skinning_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 (600712, 8169, 0, 4.4534, 0, 1, 1, 1, 1, 'King Mukla - Thick Hide'),
 (600712, 8170, 0, 50.6073, 0, 1, 1, 1, 2, 'King Mukla - Rugged Leather'),
 (600712, 8171, 0, 5.668, 0, 1, 1, 1, 1, 'King Mukla - Rugged Hide');
-DELETE FROM `creature` WHERE (`id1` = 600712);
 
+
+DELETE FROM `creature` WHERE (`id1` = 600712);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9999004, 600712, 0, 0, 800, 0, 5013, 1, 1, 0, 6087.72, 1345.63, 84.4241, 2.38642, 1800, 0, 0, 2334325, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
 
