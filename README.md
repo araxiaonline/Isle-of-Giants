@@ -6,7 +6,7 @@ A custom map for World of Warcraft: Wrath of the Lich King (WOTLK), retroported 
 - Retroported Isle of Giants using only WOTLK assets
 - Texture and model swaps for authenticity
 - Custom minimap and world map
-- Teleport location: `.go xyz 6006.94 1534.93 34.5823 1405`
+- Teleport location: `.go xyz 6006.94 1534.93 34.5823 800`
 
 ## About
 This map is a retroport of MoP's Isle of Giants, tailored for the custom WOTLK server, Felskorn WoW. Some features and design choices align with Felskorn WoW's vision. The map has been adapted for the Araxia Server with contributions to map and DBC files by SpyKeyHD, and quests, items, and mobs created by Manmadedrummer for Araxia, based on the original work by Hawjiki ([Hawjiki's GitHub](https://github.com/Hawjiki/Island-Project/)). You are free to use this map on your own servers. Credit is not required but greatly appreciated.
