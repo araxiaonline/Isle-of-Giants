@@ -20,7 +20,8 @@ INSERT INTO `creature_loot_template` (`Entry`, `Item`, `Reference`, `Chance`, `Q
 
 DELETE FROM `creature` WHERE (`id1` = 600711);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9108225, 600711, 0, 0, 1405, 0, 0, 1, 1, 0, 5944.28, 706.095, 24.7546, 2.59793, 1800, 5, 0, 12822, 3994, 1, 0, 0, 0, '', NULL, 0, NULL);
+(9108225, 600711, 0, 0, 800, 0, 5013, 1, 1, 0, 5944.28, 706.095, 24.7546, 2.59793, 1800, 5, 0, 12822, 3994, 1, 0, 0, 0, '', NULL, 0, NULL);
+
 
 UPDATE `creature_template` SET `AIName` = 'SmartAI' WHERE `entry` = 600711;
 
