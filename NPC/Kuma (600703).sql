@@ -8,4 +8,4 @@ INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`,
 
 DELETE FROM `creature` WHERE (`id1` = 600703);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9108151, 600703, 0, 0, 1405, 0, 0, 1, 1, 0, 6019.79, 1529.41, 35.6024, 1.70754, 300, 0, 0, 117524, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
+(9108151, 600703, 0, 0, 800, 0, 5013, 1, 1, 0, 6019.79, 1529.41, 35.6024, 1.70754, 300, 0, 0, 117524, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
